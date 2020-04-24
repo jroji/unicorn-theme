@@ -393,7 +393,7 @@
 			}
 		},
 		{
-			"scope": "entity.name.function, meta.function-call, variable.function, support.function, keyword.other.special-method, meta.block-level",
+			"scope": "entity.name.function, meta.function-call, variable.function, support.function, keyword.other.special-method, meta.block-level,  support.constant.property-value.css, punctuation.terminator.rule.css",
 			"settings": {
 				"foreground": "#9ed8ff"
 			}
