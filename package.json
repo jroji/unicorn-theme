@@ -1,0 +1,23 @@
+{
+    "name": "unicorn-color-theme",
+    "displayName": "Unicorn",
+    "description": "Dark unicorn theme",
+    "version": "0.0.1",
+    "publisher": "joroji",
+    "icon": "unicorn-50x50.png",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Unicorn theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/unicorn-color-theme.json"
+            }
+        ]
+    }
+}
