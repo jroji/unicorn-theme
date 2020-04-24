@@ -369,7 +369,7 @@
 			}
 		},
 		{
-			"scope": "variable, string.quoted.double.json",
+			"scope": "variable, string.quoted.double.json, ,  support.constant.property-value.css, punctuation.terminator.rule.css",
 			"settings": {
 				"foreground": "#D4D4D4"
 			}
@@ -393,7 +393,7 @@
 			}
 		},
 		{
-			"scope": "entity.name.function, meta.function-call, variable.function, support.function, keyword.other.special-method, meta.block-level,  support.constant.property-value.css, punctuation.terminator.rule.css",
+			"scope": "entity.name.function, meta.function-call, variable.function, support.function, keyword.other.special-method, meta.block-level",
 			"settings": {
 				"foreground": "#9ed8ff"
 			}
