@@ -369,7 +369,7 @@
 			}
 		},
 		{
-			"scope": "variable, string.quoted.double.json, ,  support.constant.property-value.css, punctuation.terminator.rule.css",
+			"scope": "variable, string.quoted.double.json, support.constant.property-value.css, punctuation.terminator.rule.css, constant.numeric.css",
 			"settings": {
 				"foreground": "#D4D4D4"
 			}
