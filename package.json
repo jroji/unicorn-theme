@@ -5,7 +5,7 @@
     "version": "0.1.0",
     "repository": "https://github.com/jroji/unicorn-theme.git",
     "publisher": "joroji",
-    "icon": "https://raw.githubusercontent.com/jroji/unicorn-theme/master/unicorn-50x50.png",
+    "icon": "unicorn-50x50.png",
     "engines": {
         "vscode": "^1.44.0"
     },
