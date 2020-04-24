@@ -389,7 +389,7 @@
 		{
 			"scope": "entity.name.tag, meta.tag.sgml, markup.deleted.git_gutter",
 			"settings": {
-				"foreground": "#d19119"
+				"foreground": "#ecd998"
 			}
 		},
 		{
@@ -411,13 +411,19 @@
 			}
 		},
 		{
-			"scope": "string, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+			"scope": "string",
+			"settings": {
+				"foreground": "#e0b2b2"
+			}
+		},
+		{
+			"scope": " constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key string.unquoted.label, meta.object-literal.key",
 			"settings": {
 				"foreground": "#ecd998"
 			}
 		},
 		{
-			"scope": "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter, meta.type.annotation.ts",
+			"scope": "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter, meta.type.annotation",
 			"settings": {
 				"foreground": "#FAC863"
 			}
