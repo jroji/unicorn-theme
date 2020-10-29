@@ -2,10 +2,10 @@
     "name": "unicorn-color-theme",
     "displayName": "Unicorn",
     "description": "Dark unicorn theme",
-    "version": "0.7.0",
+    "version": "0.8.1",
     "repository": "https://github.com/jroji/unicorn-theme.git",
     "publisher": "joroji",
-    "icon": "./images/unicorn-50x50.png",
+    "icon": "images/unicorn-50x50.png",
     "engines": {
         "vscode": "^1.44.0"
     },
