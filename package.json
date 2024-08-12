@@ -18,6 +18,11 @@
                 "label": "Unicorn theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/unicorn-color-theme.json"
+            },
+            {
+                "label": "Unicorn theme - 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/unicorn-color-theme-2.json"
             }
         ]
     }
